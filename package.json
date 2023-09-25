@@ -11,7 +11,7 @@
   "author": "Alyona <glmalyona@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "forever": "^4.0.3",
+    "forever": "^0.14.2",
     "http-event-stream": "^0.2.0",
     "koa": "^2.14.2",
     "koa-body": "^6.0.1",
